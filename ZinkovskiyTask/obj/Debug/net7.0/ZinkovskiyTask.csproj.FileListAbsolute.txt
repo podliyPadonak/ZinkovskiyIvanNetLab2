@@ -1,0 +1,15 @@
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\bin\Debug\net7.0\ZinkovskiyTask.exe
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\bin\Debug\net7.0\ZinkovskiyTask.deps.json
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\bin\Debug\net7.0\ZinkovskiyTask.runtimeconfig.json
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\bin\Debug\net7.0\ZinkovskiyTask.dll
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\bin\Debug\net7.0\ZinkovskiyTask.pdb
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.csproj.AssemblyReference.cache
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.AssemblyInfoInputs.cache
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.AssemblyInfo.cs
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.csproj.CoreCompileInputs.cache
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.dll
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\refint\ZinkovskiyTask.dll
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.pdb
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ZinkovskiyTask.genruntimeconfig.cache
+D:\projects\ZinkovskiyTask\ZinkovskiyTask\obj\Debug\net7.0\ref\ZinkovskiyTask.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ZinkovskiyTask/1.0.0": {
+        "runtime": {
+          "ZinkovskiyTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZinkovskiyTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
